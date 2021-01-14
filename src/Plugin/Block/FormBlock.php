@@ -10,7 +10,7 @@ use Drupal\Core\Block\BlockBase;
 use Drupal\Core\Form\FormInterface;
 
 /**
- * Provides a 'article' block.
+ * Provides a 'Form' block.
  *
  * @Block(
  *   id = "form_block",
